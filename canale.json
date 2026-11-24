@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "progressivo": 2,
-  "emesso": "2026-11-24T14:29:39Z",
+  "progressivo": 3,
+  "emesso": "2026-11-24T16:29:14Z",
   "revocate": [],
   "ultima_versione": "0.1.0",
   "minima_consigliata": "",
   "scarica": "https://portaloonline.it/",
-  "sha256": "91cbd7e4cce862b401c162022c28bdbfe104ff9787f642198464622024ece289",
+  "sha256": "d371cdccd8f7db2f86eda7ce8c3d47de340adbf081b6c382d2f3bf7a3d57311d",
   "note": "Prima versione di Portalo Online.",
-  "firma": "dcfeba374acdccc4179bf6c7b2c3a4834e0f85e1a2e9c81a2600e35263d2157c574a889d13a8fba0fe8a55c9f5bcb5cb269fa46e6c112c4c6eea042a55e46f04"
+  "firma": "b9a1759b6366ea4eef6daea0b005ad417bec1d2ddd622fd25cb144d7542f488f6cab9f663c21e3c729b91c7664baeba0ab76a6b0237d0649538010beffc2ee0f"
 }
